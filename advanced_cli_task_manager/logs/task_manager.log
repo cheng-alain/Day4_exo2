@@ -1,0 +1,30 @@
+2025-04-28 11:14:41,931 - task_manager - INFO - Tasks saved to tasks.json
+2025-04-28 11:14:41,932 - task_manager - INFO - Task added: ID=1, Description=Complete the project, Priority=1
+2025-04-28 11:14:41,932 - task_manager - INFO - Task added: Complete the project with priority 1
+2025-04-28 11:14:54,457 - task_manager - INFO - Retrieved 1 tasks
+2025-04-28 11:14:54,457 - task_manager - INFO - Tasks listed
+2025-04-28 11:15:04,118 - task_manager - INFO - Tasks saved to tasks.json
+2025-04-28 11:15:04,118 - task_manager - INFO - Task 1 deleted
+2025-04-28 11:15:04,118 - task_manager - INFO - Task 1 deleted
+2025-04-28 11:15:11,028 - task_manager - ERROR - Error loading tasks: Expecting value: line 1 column 1 (char 0)
+2025-04-28 11:15:11,028 - task_manager - INFO - Tasks saved to /tmp/tmphfmgjbq8
+2025-04-28 11:15:11,028 - task_manager - INFO - Task added: ID=1, Description=Test task, Priority=1
+2025-04-28 11:15:11,029 - task_manager - ERROR - Error loading tasks: Expecting value: line 1 column 1 (char 0)
+2025-04-28 11:15:11,029 - task_manager - INFO - Tasks saved to /tmp/tmpms9ni9ud
+2025-04-28 11:15:11,029 - task_manager - INFO - Task added: ID=1, Description=Task 1, Priority=1
+2025-04-28 11:15:11,029 - task_manager - INFO - Tasks saved to /tmp/tmpms9ni9ud
+2025-04-28 11:15:11,029 - task_manager - INFO - Task added: ID=2, Description=Task 2, Priority=2
+2025-04-28 11:15:11,030 - task_manager - INFO - Tasks saved to /tmp/tmpms9ni9ud
+2025-04-28 11:15:11,030 - task_manager - INFO - Task 1 deleted
+2025-04-28 11:15:11,030 - task_manager - WARNING - Task 99 not found
+2025-04-28 11:16:43,469 - task_manager - ERROR - Error loading tasks: Expecting value: line 1 column 1 (char 0)
+2025-04-28 11:16:43,469 - task_manager - INFO - Tasks saved to /tmp/tmpek5fkcsy
+2025-04-28 11:16:43,469 - task_manager - INFO - Task added: ID=1, Description=Test task, Priority=1
+2025-04-28 11:16:43,472 - task_manager - ERROR - Error loading tasks: Expecting value: line 1 column 1 (char 0)
+2025-04-28 11:16:43,472 - task_manager - INFO - Tasks saved to /tmp/tmp1ly1es63
+2025-04-28 11:16:43,472 - task_manager - INFO - Task added: ID=1, Description=Task 1, Priority=1
+2025-04-28 11:16:43,472 - task_manager - INFO - Tasks saved to /tmp/tmp1ly1es63
+2025-04-28 11:16:43,472 - task_manager - INFO - Task added: ID=2, Description=Task 2, Priority=2
+2025-04-28 11:16:43,472 - task_manager - INFO - Tasks saved to /tmp/tmp1ly1es63
+2025-04-28 11:16:43,472 - task_manager - INFO - Task 1 deleted
+2025-04-28 11:16:43,472 - task_manager - WARNING - Task 99 not found
